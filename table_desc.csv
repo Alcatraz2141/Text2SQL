@@ -1,0 +1,8 @@
+Tables,Description
+employees,"Contains employee information such as employee ID, name, job, manager ID, hire date, and salary."
+departments,"Stores department information including department ID, name, and manager ID."
+locations,"Holds location details such as location ID, street address, postal code, city, state, and country."
+countries,Contains country information such as country ID and country name.
+regions,Stores region information including region ID and region name.
+jobs,"Holds job information such as job ID, job title, minimum salary, and maximum salary."
+job_history,"Stores historical job data including employee ID, start date, end date, job ID, and department ID."

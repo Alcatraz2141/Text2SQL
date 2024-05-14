@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain_openai
+typing
+operator
+langchain_core
+pandas
+streamlit
+python-dotenv
+Chroma
+pydantic
+openai
